@@ -1,0 +1,27 @@
+main div{
+    margin: 1em;
+    padding: 2em;
+    background-color: rgba(128, 128, 128, 0.8);
+    border: 5px solid black;
+    border-radius: 3em;
+}
+form #pregunta1,#pregunta2,#pregunta3,#areatext{
+    background-color: rgba(255, 255, 255, 0.654);
+    border-radius: 1em;
+    padding: 1em;
+    font-size: 1.2em;
+
+}
+#enviar{
+    margin: 1.5em;
+    padding: 2em;
+    border: 2px solid black;
+    background-image: url(../img/fons2.jpg);
+    background-size: contain;
+    font-size: larger;
+    font-weight: 600;
+}
+#enviar:hover{
+    color: red;
+    border: 2px solid red;
+}

@@ -1,0 +1,51 @@
+main{
+    text-align: center;
+}
+
+h2{
+    padding-bottom: 1em;
+    font-size: 2.5em;
+}
+
+div#paragraf1{
+    margin: 1em;
+    padding: 2em;
+    background-color: rgba(128, 128, 128, 0.8);
+    border: 5px solid black;
+    border-radius: 3em;
+}
+
+h3{
+    padding-bottom: 1em;
+    font-size: 2em;
+}
+
+div#paragraf2{
+    margin: 1em;
+    padding: 2em;
+    background-color: rgba(128, 128, 128, 0.8);
+    border: 5px solid black;
+    border-radius: 3em;
+}
+
+div#paragraf2 li{
+    display: block;
+    text-align: left;
+    text-decoration: dotted;
+    padding: 0.5em;
+}
+
+div#paragraf2 ul{
+    background-color: rgba(255, 255, 255, 0.654);
+    border-radius: 1em;
+    padding: 1em;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+main p{
+    background-color: rgba(255, 255, 255, 0.654);
+    border-radius: 1em;
+    padding: 1em;
+    font-size: 1.2em;
+}

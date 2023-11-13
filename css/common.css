@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+    padding: 0px;  
+    text-decoration: none;
+}
+
+a{
+    color: white;
+}
+
+header{
+    background-image: url("../img/minecarftclubdefans.jpg");
+    background-repeat: round;
+    height: 40em;
+    max-width: 100%;
+    text-align: center;
+    font-display: inline;
+    color: black;
+    font-size: larger;
+}
+
+h1{
+    font-size: 2em;
+    color: white;
+}
+
+li{
+    display: inline;
+}
+
+header a{
+    text-decoration: none;
+    margin-top: 2em;
+    color: rgb(88, 156, 61);
+    display: inline;
+}
+
+header li{
+    background-color: rgb(103, 67, 40);
+    padding:0.3em;
+    margin: 0.1em;
+    border: 1.5px solid rgb(88, 156, 61);
+}
+
+header a:hover{
+    color: black;
+}
+
+header li:hover{
+    background-color: gold;
+    color: black;
+    border: 2px solid  black;
+}
+
+header h1{
+    padding-top: 3em;
+}
+
+nav{
+    margin-top: -8.5em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background-image: url(../img/fons2.jpg);
+    background-size: contain;
+    background-repeat: round;
+    border-bottom: 2px solid black;
+    position: fixed;
+    width: 99.9%;
+}
+
+hr{
+    margin: 1%;
+    margin-left: 0px;;
+}
+
+main{
+    background-image: url(../img/fons.jpg);
+    border-top: 0.5em solid black;
+    border-bottom: 0.5em solid black;
+    background-size: 6em;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    clear: both;
+}
+
+footer p{
+    margin-left: 1%;
+}
+
+footer ul{
+    clear: both;
+    margin-top: -1em;
+    margin-left: 80%;
+}
